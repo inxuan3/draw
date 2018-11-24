@@ -1,0 +1,9 @@
+F:\inxuan3的C#~\移动线要素\移动线要素\bin\Debug\移动线要素.exe
+F:\inxuan3的C#~\移动线要素\移动线要素\bin\Debug\移动线要素.pdb
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\移动线要素.Form1.resources
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\移动线要素.Properties.Resources.resources
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\移动线要素.exe
+F:\inxuan3的C#~\移动线要素\移动线要素\obj\x86\Debug\移动线要素.pdb

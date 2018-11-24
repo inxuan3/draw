@@ -1,0 +1,11 @@
+F:\inxuan3的C#~\凸壳\凸壳\bin\Debug\凸壳.exe
+F:\inxuan3的C#~\凸壳\凸壳\bin\Debug\凸壳.pdb
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\凸壳.Form1.resources
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\凸壳.Properties.Resources.resources
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\凸壳.exe
+F:\inxuan3的C#~\凸壳\凸壳\obj\x86\Debug\凸壳.pdb
+D:\BaiduYunDownload\1004125208\1004125208\draw\凸壳\凸壳\obj\x86\Debug\凸壳.exe
+D:\BaiduYunDownload\1004125208\1004125208\draw\凸壳\凸壳\obj\x86\Debug\凸壳.pdb
